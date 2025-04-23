@@ -1,0 +1,36 @@
+_repo: Un-grand-missionnaire-b-le-cardinal-Lavigerie_75743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goyau, Georges
+    alias: Goyau, G. (Georges)
+    birthdate: 1869
+    deathdate: 1939
+    gutenberg_agent_id: '54014'
+    url: http://www.gutenberg.org/2009/agents/54014
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Georges_Goyau
+    - https://fr.wikipedia.org/wiki/Georges_Goyau
+description: ''
+gutenberg_issued: '2025-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75743'
+  lccn: '26002732'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9762339p
+pgterms:marc905: 20250129120035goyau
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bPlon-Nourrit et Cie, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lavigerie, Charles Martial Allemand, 1825-1892'
+- !lcc 'BX'
+- GITenberg
+title: 'Un grand missionnaire : $b le cardinal Lavigerie'
+url: http://www.gutenberg.org/ebooks/75743
