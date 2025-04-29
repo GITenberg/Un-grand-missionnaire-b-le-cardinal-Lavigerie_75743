@@ -1,5 +1,8 @@
 _repo: Un-grand-missionnaire-b-le-cardinal-Lavigerie_75743
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75743-h/images/cover.jpg
 creator:
   author:
     agent_name: Goyau, Georges
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Georges_Goyau
     - https://fr.wikipedia.org/wiki/Georges_Goyau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75743#Un-grand-missionnaire-b-le-cardinal-Lavigerie
 gutenberg_issued: '2025-03-29'
 gutenberg_type: Text
 identifiers:
